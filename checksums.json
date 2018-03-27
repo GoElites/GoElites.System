@@ -1,0 +1,60 @@
+{
+    "system": [
+        {
+            "Type": "Loader",
+            "Name": "Loader.exe",
+            "Checksum": "6c6be401d8ee5232f4e739024af1fe7b",
+            "DownloadLink": "https://github.com/GoElites/GoElites.System/raw/master/system/Loader.exe"
+        },
+        {
+            "Type": "Loader",
+            "Name": "Wrapper.dll",
+            "Checksum": "a4e60786c01f3d6e9bda3686adb0bcde",
+            "DownloadLink": "https://github.com/GoElites/GoElites.System/raw/master/system/Wrapper.dll"
+        }
+    ],
+    "core": [
+		{
+            "Type": "Riot",
+            "Name": "7.24",
+            "Checksum": "db68820b5d418aff77a33b8628c71198",
+            "DownloadLink": "https://github.com/GoElites/GoElites.System/raw/master/core/7.24/Core.dll"
+        },
+		{
+            "Type": "Riot",
+            "Name": "8.1",
+            "Checksum": "3f850052e682688ad89ae9c735e3ff2a",
+            "DownloadLink": "https://github.com/GoElites/GoElites.System/raw/master/core/8.1/Core.dll"
+        },
+		{
+            "Type": "Riot",
+            "Name": "8.2",
+            "Checksum": "db28f3ffb716d4df47a0e16d7dfb529b",
+            "DownloadLink": "https://github.com/GoElites/GoElites.System/raw/master/core/8.2/Core.dll"
+        },
+		{
+            "Type": "Riot",
+            "Name": "8.3",
+            "Checksum": "ee62d38008ac16a488a2bba983d3965a",
+            "DownloadLink": "https://github.com/GoElites/GoElites.System/raw/master/core/8.3/Core.dll"
+        },
+		{
+            "Type": "Riot",
+            "Name": "8.4",
+            "Checksum": "516d36e35f1b7c7dc9db079bf3515324",
+            "DownloadLink": "https://github.com/GoElites/GoElites.System/raw/master/core/8.4/Core.dll"
+        },
+		{
+            "Type": "Riot",
+            "Name": "8.5",
+            "Checksum": "ef245b726c0e4e144fa9e78a06a7989b",
+            "DownloadLink": "https://github.com/GoElites/GoElites.System/raw/master/core/8.5/Core.dll"
+        },
+		{
+            "Type": "Riot",
+            "Name": "8.6",
+            "Checksum": "a619a19dddec5f27eb2fba0f5bc6251e",
+            "DownloadLink": "https://github.com/GoElites/GoElites.System/raw/master/core/8.6/Core.dll"
+        }
+    ]
+}
