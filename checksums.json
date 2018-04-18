@@ -61,6 +61,12 @@
             "Name": "8.7",
             "Checksum": "5be7a2b47253d3f3fb3f24c85df16f65",
             "DownloadLink": "https://github.com/GoElites/GoElites.System/raw/master/core/8.7/Core.dll"
+        },
+		{
+            "Type": "Riot",
+            "Name": "8.8",
+            "Checksum": "60277a77f64b5db6db26656a0a914142",
+            "DownloadLink": "https://github.com/GoElites/GoElites.System/raw/master/core/8.8/Core.dll"
         }
     ]
 }
